@@ -1,11 +1,20 @@
-weth: 0x360790a8788e8482bAd79F55A3a42AfDd2456355
+weth: 0x20b28b1e4665fff290650586ad76e977eab90c5d
 PancakeFactory: 0x4b3b337B6a2611a75Be31e3AF2B6E044F9eCcaDe 
 
 Init code hash: 0x31ed7ef08ee9efc616d7a94c57057de4fbb07c5e0665d877e3812515f2f187db
 
-PancakeRouter01: 0x0A68ceC832BFcC46Af4956468D0e4E4a675C50e7 
+PancakeRouter01: 0x0B172168A5864A21997b815724A8B6168f49a693 
 
-PancakeRouter: 0xA39254641D0616DF301eD7DC30c5760a9963e0dD 
-
+PancakeRouter: 0xA39254641D0616DF301eD7DC30c5760a9963e0dD
 
 Multicall: 0x12990287506fDDAe0E0fCA3701551738d7f9A909 
+
+Explorer: https://goerli.explorer.zksync.io/
+
+
+
+Link: 
+Factory:  https://goerli.explorer.zksync.io/address/0x4b3b337B6a2611a75Be31e3AF2B6E044F9eCcaDe#contract
+PancakeRouter01:  https://goerli.explorer.zksync.io/address/0x0B172168A5864A21997b815724A8B6168f49a693#contract
+PancakeRouter:  https://goerli.explorer.zksync.io/address/0xA39254641D0616DF301eD7DC30c5760a9963e0dD#contract
+Multicall:  https://goerli.explorer.zksync.io/address/0x12990287506fDDAe0E0fCA3701551738d7f9A909#contract
